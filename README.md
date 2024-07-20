@@ -32,8 +32,9 @@ Hello! I'm Mayureshwar Tawade, a passionate software developer fresher. Welcome 
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Mayureshwar Tawade](https://www.linkedin.com/in//)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/)
+- **LinkedIn**: [Mayureshwar Tawade](https://www.linkedin.com/in/mayureshwartawade)
+- **Twitter**: [@mayureshwar_t](https://twitter.com/mayureshwar_t)
+- **Instagram**:[@code.mayur](https://instagram.com/code.mayur)
 - **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 
 ---
