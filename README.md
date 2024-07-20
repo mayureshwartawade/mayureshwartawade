@@ -22,13 +22,13 @@ Hello! I'm Mayureshwar Tawade, a passionate software developer fresher. Welcome 
 
 ## 🔥 My Stats
 
-![Mayureshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Mayureshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayureshwartawade&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayureshwartawade&layout=compact&theme=radical)
 
 ## 📈 Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayureshwartawade&theme=radical)
 
 ## 📫 Let's Connect
 
