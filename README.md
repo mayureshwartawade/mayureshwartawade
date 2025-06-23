@@ -8,17 +8,16 @@ Hello! I'm Mayureshwar Tawade, a passionate software developer fresher. Welcome 
 
 ## 🚀 About Me
 
-- 🎓 I completed my pursuing BSc in computer science.
-- 💼 I recently started a web development journey.
-- 🌱 I'm currently learning web development and software engineering practices.
-- 👯 I’m looking to collaborate on interesting projects and open-source contributions.
-- 📫 How to reach me: tawdemayureshwar@gmail.com
+I'm Mayureshwar Tawade, a final-year BSc Computer Science student passionate about building scalable web applications. I specialize in Full Stack Development with a focus on backend systems. Currently working with React while learning SpringBoot and strengthening my DSA skills.
+
+I’m open to collaborations, internships, and exciting project opportunities.
 
 ## 🛠️ Skills
 
-- **Languages**: C,C++,Sql,HTML,CSS,JS
-- **Frameworks**: Learning React.js
-- **Tools**: Git, GitHub, VS Code 
+- **Languages**: C,C++,Sql,HTML,CSS,JS,JAVA
+- **Frontend**: Learning React.js
+- **Backend**: Node.js ,Springboot
+- **Tools & IDEs**: Git, GitHub, VS Code , Android Studio, Eclipse, IntelliJ IDEA
 
 ## 🔥 My Stats
 
