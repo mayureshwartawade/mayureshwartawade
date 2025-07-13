@@ -16,7 +16,7 @@ I’m open to collaborations, internships, and exciting project opportunities.
 
 - **Languages**: C,C++,Sql,HTML,CSS,JS,JAVA
 - **Frontend**: Learning React.js
-- **Backend**: Node.js ,Springboot
+- **Backend**: express.js ,Springboot
 - **Tools & IDEs**: Git, GitHub, VS Code , Android Studio, Eclipse, IntelliJ IDEA
 
 ## 🔥 My Stats
