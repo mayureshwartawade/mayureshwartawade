@@ -34,7 +34,7 @@ I’m open to collaborations, internships, and exciting project opportunities.
 - **LinkedIn**: [Mayureshwar Tawade](https://www.linkedin.com/in/mayureshwartawade)
 - **Twitter**: [@mayureshwar_t](https://twitter.com/mayureshwar_t)
 - **Instagram**:[@code.mayur](https://instagram.com/code.mayur)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+- **Portfolio**: [your-portfolio.com](https://withmayur.in)
 
 ---
 
